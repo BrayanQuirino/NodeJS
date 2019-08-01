@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayanQuirino/NodeJS.git"
+  },
+  "keywords": [
+    "node.js",
+    "curso",
+    "español"
+  ],
+  "author": "Brayan Quirino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayanQuirino/NodeJS/issues"
+  },
+  "homepage": "https://github.com/BrayanQuirino/NodeJS#readme"
+}
